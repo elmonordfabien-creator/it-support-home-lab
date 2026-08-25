@@ -1,3 +1,8 @@
+<img width="479" height="587" alt="05-labuser-modify-permission png" src="https://github.com/user-attachments/assets/762b9373-5ec9-43bc-a68a-2cb237ef8477" />
+<img width="1343" height="601" alt="04-access-denied-test png" src="https://github.com/user-attachments/assets/ca7dedbe-027b-41f6-8890-9c4076449872" />
+<img width="472" height="587" alt="03-labuser-read-permissions png" src="https://github.com/user-attachments/assets/1d09ac32-c4a7-4776-8276-610d9cf00e3e" />
+<img width="1116" height="714" alt="02-command-prompt-practice png" src="https://github.com/user-attachments/assets/a8e67046-684f-453f-8167-dc3af5f6edd3" />
+<img width="951" height="317" alt="01-lab-folder-structure png" src="https://github.com/user-attachments/assets/353690cc-ed71-4175-86c4-213d98354079" />
 # Day 3 – Windows Files and Permissions
 
 ## Objective
